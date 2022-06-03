@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://amazing-salamander-29ec2c.netlify.app/](https://amazing-salamander-29ec2c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratikganjale-portfolio.netlify.app/](https://amazing-salamander-29ec2c.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
