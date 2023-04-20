@@ -10,7 +10,7 @@
 <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=pratikganjale55@gamil.com&hl=en-GB"  target="_blank"> <img src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" height="30px"/>Mail</a>
  <img src="https://gpvc.arturio.dev/pratikganjale55" />
 <br/>
-<br/>
+
 <h1> TECH STACKS</h1>
 <!-- <p align="left">
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -27,7 +27,7 @@
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+
 <br/>
 <br/>
 <h1>Github</h1>
