@@ -3,7 +3,7 @@
 <h3 >I am Full Stack Developer(MERN)</h3>
 <p>As a Full Stack Developer, I have experience building web applications from the ground up. I'm comfortable working with both front-end and back-end technologies, and I enjoy collaborating with designers, developers, and other stakeholders to create beautiful, functional, and scalable applications.</p>
 
-<h1>SOCIAL INFORMATION</h1>
+<h2>SOCIAL INFORMATION</h2>
 <a href="https://www.linkedin.com/in/pratik-ganjale-4920aa166/"  target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" height="30px"/>LinkedIn</a>
 <a href="https://github.com/pratikganjale55"  target="_blank"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="30px"/>GitHub</a>
 <a href="https://pratikganjale55.github.io/Pratik-Portfolio/"  target="_blank"> <img src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere.png" height="30px"/>Portfolio</a>
@@ -12,26 +12,28 @@
  <img src="https://gpvc.arturio.dev/pratikganjale55" />
 
 
-<h1> TECH STACKS</h1>
+<h2> TECH STACKS</h2>
 <!-- <p align="left">
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
 </p> -->
- <p align="center" >
-  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
-  </p>
+ 
+<span>
+ ### 
+ <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" width="30" height="30"/> HTML/CSS
+ <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" width="30" height="30"/> JavaScript
+ <img src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" width="30" height="30"/> React
+ <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js Logo" width="30" height="30"/> Node.js
+ <img src="https://cdn.svgporn.com/logos/express.svg" alt="Express Logo" width="30" height="30"/> Express
+ <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB Logo" width="30" height="30"/> MongoDB
+ <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap Logo" width="30" height="30"/> Bootstrap
+ <img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma Logo" width="30" height="30"/> Figma
+ 
+ </span>
+
 
 <br/>
 <br/>
-<h1>Github</h1>
+<h2>Github</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=pratikganjale55"/> 
 
 <span >
