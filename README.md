@@ -7,8 +7,7 @@
 <a href="https://www.linkedin.com/in/pratik-ganjale-4920aa166/"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" height="30px"/>LinkedIn</a>
 <a href="https://github.com/pratikganjale55"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="30px"/>GitHub</a>
 <a href="https://pratikganjale55.github.io/Pratik-Portfolio/"> <img src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere.png" height="30px"/>Portfolio</a>
-<a href=""> <img src="" height="30px"/></a>
-<a href=""> <img src="" height="30px"/></a>
+ <img src="https://gpvc.arturio.dev/pratikganjale55" />
 <br/>
 <br/>
 <h1> TECH STACKS</h1>
@@ -31,6 +30,8 @@
 <br/>
 <br/>
 <h1>Github</h1>
+<img src="https://github-profile-trophy.vercel.app/?username=pratikganjale55"/> 
+
 <span >
   <br/>
 <img alt="pratik ganjale languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikganjale55&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
