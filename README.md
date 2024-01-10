@@ -6,7 +6,7 @@
 <h2>SOCIAL INFORMATION</h2>
 <a href="https://www.linkedin.com/in/pratik-ganjale-4920aa166/"  target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" height="30px"/>LinkedIn</a>
 <a href="https://github.com/pratikganjale55"  target="_blank"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="30px"/>GitHub</a>
-<a href="https://pratikganjale55.github.io/Pratik-Portfolio/"  target="_blank"> <img src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere.png" height="30px"/>Portfolio</a>
+<!-- <a href="https://pratikganjale55.github.io/Pratik-Portfolio/"  target="_blank"> <img src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere.png" height="30px"/>Portfolio</a> -->
 <a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=pratikganjale55@gamil.com&hl=en-GB"  target="_blank"> <img src="https://help.apple.com/assets/63CF0773EF8ABA61CC409172/63CF077AEF8ABA61CC40917A/en_GB/e4dbb8e240d50cf30bab73b272a3760b.png" height="30px"/>Mail</a>
 <br/>
  <img src="https://gpvc.arturio.dev/pratikganjale55" />
